@@ -18,30 +18,6 @@
       <change afterPath="$PROJECT_DIR$/frontend/debug.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/public/images/dress/d2.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/public/images/dress/kate-skumen-PJRabkuH3_Q-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/md-salman-tWOz2_EK5EQ-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/nimble-made-N0ke5zChVBU-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/nimble-made-kMGX6UK06Ps-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/nimble-made-m2z2wJ1XX6Q-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/andres-jasso-PqbL_mxmaUE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/andres-jasso-u4unYsXQHnE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/imani-bahati-LxVxPA1LOVM-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/paul-gaudriault-a-QH9MAAVNI-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/ryan-plomp-76w_eDO1u1E-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/ryan-plomp-PGTO_A0eLt4-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/ryan-plomp-jvoZ-Aux9aw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/sh1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/sh2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/christian-bolt-VW5VjskNXZ8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/disruptivo-c2TRroai5FA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/fawz-pilus-SxB5iOeY7XU-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/josue-escoto-crsQ7CNIovw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/logan-weaver-meddJaBt-l0-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/randy-jose-mdXqVgpypNA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/sincerely-media-9ShY-Tq70Mc-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/vinicius-henrique-photography-FKeGskJ0Ivs-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/yonas-bekele-X5Sv2Af3V00-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/trousers/bantersnaps-jC7nVH_Sw8k-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/trousers/cassandra-hamer-BZnud8H2AXA-unsplash.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/CheckoutSteps.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/PaypalButton.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/Rating.js" afterDir="false" />
@@ -231,6 +207,7 @@
       <workItem from="1611051711295" duration="1729000" />
       <workItem from="1611053533440" duration="1784000" />
       <workItem from="1611056079945" duration="600000" />
+      <workItem from="1611058372571" duration="332000" />
     </task>
     <servers />
   </component>
