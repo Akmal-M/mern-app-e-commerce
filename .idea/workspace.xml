@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45baaf96-18eb-4df2-a55a-95fd3bf99c6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/dress/d2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/dress/kate-skumen-PJRabkuH3_Q-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/md-salman-tWOz2_EK5EQ-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/nimble-made-N0ke5zChVBU-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/nimble-made-kMGX6UK06Ps-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shirts/nimble-made-m2z2wJ1XX6Q-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/andres-jasso-PqbL_mxmaUE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/andres-jasso-u4unYsXQHnE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/imani-bahati-LxVxPA1LOVM-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/paul-gaudriault-a-QH9MAAVNI-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/ryan-plomp-76w_eDO1u1E-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/ryan-plomp-PGTO_A0eLt4-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/ryan-plomp-jvoZ-Aux9aw-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/sh1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/shoes/sh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/christian-bolt-VW5VjskNXZ8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/disruptivo-c2TRroai5FA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/fawz-pilus-SxB5iOeY7XU-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/josue-escoto-crsQ7CNIovw-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/logan-weaver-meddJaBt-l0-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/randy-jose-mdXqVgpypNA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/sincerely-media-9ShY-Tq70Mc-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/vinicius-henrique-photography-FKeGskJ0Ivs-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/t shirts/yonas-bekele-X5Sv2Af3V00-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/trousers/bantersnaps-jC7nVH_Sw8k-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/trousers/cassandra-hamer-BZnud8H2AXA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Components/CheckoutSteps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Components/PaypalButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Components/Rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/actions/cartActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/actions/orderActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/actions/productActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/actions/userActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/CartPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/OrderPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/OrdersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/PaymentPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/PlaceOrderPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/ProductPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/ProductsPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/ProfilePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/RegisterPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/ShippingPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/SignInPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reducers/cartReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reducers/orderReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reducers/productReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reducers/userReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/types/cartTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/types/orderTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/types/productTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/types/userTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../html\exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1m6BFgRlQPZopoDjDWQcXSn65gX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\html" />
+      <recent name="C:\Users\My PC\Desktop\html\frontend\src" />
+      <recent name="C:\Users\My PC\Desktop\html\frontend\public" />
+      <recent name="C:\Users\My PC\Desktop\html\template" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\html\frontend\src\pages" />
+      <recent name="C:\Users\My PC\Desktop\html\backend\routes" />
+      <recent name="C:\Users\My PC\Desktop\html\backend\models" />
+      <recent name="C:\Users\My PC\Desktop\html\frontend\src\reducers" />
+      <recent name="C:\Users\My PC\Desktop\html\frontend\src\types" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45baaf96-18eb-4df2-a55a-95fd3bf99c6e" name="Default Changelist" comment="" />
+      <created>1608804059063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608804059063</updated>
+      <workItem from="1608804060779" duration="950000" />
+      <workItem from="1608805234974" duration="8000" />
+      <workItem from="1610267860985" duration="1761000" />
+      <workItem from="1610269640481" duration="963000" />
+      <workItem from="1610273008531" duration="779000" />
+      <workItem from="1610273824510" duration="1106000" />
+      <workItem from="1610275008670" duration="1781000" />
+      <workItem from="1610276814982" duration="1991000" />
+      <workItem from="1610278831152" duration="1722000" />
+      <workItem from="1610280581333" duration="1581000" />
+      <workItem from="1610282185973" duration="926000" />
+      <workItem from="1610284219350" duration="843000" />
+      <workItem from="1610290347098" duration="1777000" />
+      <workItem from="1610292162673" duration="1773000" />
+      <workItem from="1610294005676" duration="596000" />
+      <workItem from="1610298103701" duration="1108000" />
+      <workItem from="1610299274934" duration="1778000" />
+      <workItem from="1610301084680" duration="1783000" />
+      <workItem from="1610302894149" duration="1787000" />
+      <workItem from="1610304708897" duration="1794000" />
+      <workItem from="1610306528638" duration="1791000" />
+      <workItem from="1610308355495" duration="402000" />
+      <workItem from="1610350407145" duration="1788000" />
+      <workItem from="1610352239503" duration="1786000" />
+      <workItem from="1610354055516" duration="988000" />
+      <workItem from="1610356033460" duration="149000" />
+      <workItem from="1610356254583" duration="1736000" />
+      <workItem from="1610358044047" duration="1783000" />
+      <workItem from="1610360663909" duration="1783000" />
+      <workItem from="1610362473564" duration="1786000" />
+      <workItem from="1610364284046" duration="2181000" />
+      <workItem from="1610367175359" duration="1800000" />
+      <workItem from="1610369018637" duration="656000" />
+      <workItem from="1610432686438" duration="17000" />
+      <workItem from="1610438009366" duration="92000" />
+      <workItem from="1610452639887" duration="445000" />
+      <workItem from="1610519589098" duration="9000" />
+      <workItem from="1610521178981" duration="661000" />
+      <workItem from="1610523434723" duration="5000" />
+      <workItem from="1610531015963" duration="2000" />
+      <workItem from="1610531023903" duration="1320000" />
+      <workItem from="1610533206272" duration="1786000" />
+      <workItem from="1610535019775" duration="1779000" />
+      <workItem from="1610536826934" duration="789000" />
+      <workItem from="1610539718475" duration="1785000" />
+      <workItem from="1610541528320" duration="877000" />
+      <workItem from="1610545577293" duration="1777000" />
+      <workItem from="1610547384413" duration="1566000" />
+      <workItem from="1610550017848" duration="1780000" />
+      <workItem from="1610551825188" duration="515000" />
+      <workItem from="1610601812356" duration="1894000" />
+      <workItem from="1610603732948" duration="1759000" />
+      <workItem from="1610605546399" duration="1783000" />
+      <workItem from="1610607489143" duration="5000" />
+      <workItem from="1610608535251" duration="137000" />
+      <workItem from="1610608746848" duration="57000" />
+      <workItem from="1610609905410" duration="738000" />
+      <workItem from="1610610669526" duration="1784000" />
+      <workItem from="1610612505921" duration="1771000" />
+      <workItem from="1610614314512" duration="6173000" />
+      <workItem from="1610620572666" duration="352000" />
+      <workItem from="1610631454770" duration="1783000" />
+      <workItem from="1610633278213" duration="4524000" />
+      <workItem from="1610637848335" duration="1786000" />
+      <workItem from="1610639668347" duration="1811000" />
+      <workItem from="1610641568817" duration="1778000" />
+      <workItem from="1610643408530" duration="1785000" />
+      <workItem from="1610645218644" duration="1773000" />
+      <workItem from="1610647030833" duration="1788000" />
+      <workItem from="1610648859183" duration="644000" />
+      <workItem from="1610685285582" duration="1721000" />
+      <workItem from="1610687091193" duration="1752000" />
+      <workItem from="1610688981072" duration="793000" />
+      <workItem from="1610867735191" duration="1075000" />
+      <workItem from="1610869326256" duration="1761000" />
+      <workItem from="1610871125829" duration="2600000" />
+      <workItem from="1610873786072" duration="1779000" />
+      <workItem from="1610875601580" duration="1777000" />
+      <workItem from="1610877410487" duration="1776000" />
+      <workItem from="1610879229868" duration="1385000" />
+      <workItem from="1610881051102" duration="1768000" />
+      <workItem from="1610882847466" duration="1232000" />
+      <workItem from="1610885023937" duration="602000" />
+      <workItem from="1610886200402" duration="1782000" />
+      <workItem from="1610888012726" duration="1783000" />
+      <workItem from="1610890032649" duration="1204000" />
+      <workItem from="1610891847059" duration="1388000" />
+      <workItem from="1610893665709" duration="804000" />
+      <workItem from="1610897683769" duration="1027000" />
+      <workItem from="1610900569011" duration="1244000" />
+      <workItem from="1610904136070" duration="2000" />
+      <workItem from="1611049230250" duration="795000" />
+      <workItem from="1611051711295" duration="1729000" />
+      <workItem from="1611053533440" duration="1784000" />
+      <workItem from="1611056079945" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="276" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610877008794">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="319" y="276" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1610877008794" />
+    <state x="317" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1610282146014">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="317" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.984@0.0.1280.984" timestamp="1610282146014" />
+    <state x="16" y="35" key="SettingsEditor" timestamp="1610282309523">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="16" y="35" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1610282309523" />
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1610891483431">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1610891483431" />
+  </component>
+</project>
